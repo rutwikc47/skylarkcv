@@ -1,4 +1,4 @@
-#Computer Vision Template Matching project 
+# Computer Vision Template Matching project 
 
 The project will be broken up into a few main parts in one Python notebook:
 
