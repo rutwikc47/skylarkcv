@@ -1,4 +1,4 @@
-Computer Vision Template Matching project 
+#Computer Vision Template Matching project 
 
 The project will be broken up into a few main parts in one Python notebook:
 
@@ -78,6 +78,6 @@ cd
 
 2. Open the notebook and follow the instructions.
 ```shell
-jupyter notebook skylark_cv.ipynb
+jupyter notebook skylarkcv.ipynb
 ```
 
